@@ -44,7 +44,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin:50px 200px ;
+    padding:150px 200px ;
 }
 
 .nav-title{
@@ -98,7 +98,7 @@ main{
 
 .about{
     margin-top: 130px;
-    background-color: #FFF1E7;
+    background-color: #f5f4f475;
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
@@ -187,6 +187,8 @@ padding: 30px;
 
 .resume{
     margin-top: 130px;
+    background-color: #fbfbfc;
+    padding: 20px;
 
 }
 
@@ -232,7 +234,7 @@ padding: 30px;
 .contact{
     display: flex;
     gap: 80px;
-    background: #FFF8F3;
+    background: #f8f4f2;
     padding: 130px 200px;
     margin-top: 60px;
 }
