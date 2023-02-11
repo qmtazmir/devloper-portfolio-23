@@ -1,21 +1,3 @@
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 26
-code
-Inbox
-
-Ibhm. lab
-Attachments
-8:48 AM (9 hours ago)
-to me
-
-
-2
- Attachments
-  •  Scanned by Gmail
 *{
     margin: 0;
     padding: 0;
@@ -201,3 +183,62 @@ padding: 30px;
     font-weight: 700;
     font-size: 20px;
 }
+
+
+.resume{
+    margin-top: 130px;
+
+}
+
+
+.resume-title{
+    text-align: center;
+    margin-bottom: 50px;
+    gap:5px;
+}
+
+.bio-detail{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.education-left{
+    border-bottom: 2px solid gray;
+    margin-right: 10px;
+}
+.education{
+    border-bottom: 2px solid gray;
+    margin-left: 10px;
+}
+
+.button-cv{
+    color: azure;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 10px;
+    height: 44px;
+    border-radius: 10px;
+    background-color:#FD6E0A;
+   
+}
+
+.download-cv{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.contact{
+    display: flex;
+    gap: 80px;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 60px;
+}
+
+.contact-logo{
+    display: flex;
+    gap: 20px;
+}
+
